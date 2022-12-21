@@ -2,6 +2,8 @@
 
 - VertuEntropy VEM Powered By VertuFinale VERTU
 - VEM holders reward VERTU and earn USDT
+- VEM & [VERTU](https://github.com/SolidityShield/VertuFinale) maximize your cryptocurrency investment
+- Quality cryptocurrency for investors 
 - Buy [VEM](https://quickswap.exchange/#/swap?inputCurrency=0xB5d4c220D92ea9A8b908b5C3E87a7E0a1bA47537) on Quickswap Exchange
 - [VEM](https://polygonscan.com/token/0xB5d4c220D92ea9A8b908b5C3E87a7E0a1bA47537) contract:
 0xB5d4c220D92ea9A8b908b5C3E87a7E0a1bA47537
