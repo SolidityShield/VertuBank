@@ -9,7 +9,7 @@
 - VEM VERTU Pool  [DividendDistributor](https://polygonscan.com/address/0xE81c6d5D8Dba5EDD1e38f16a586cFbFD141b911b) :
 0xE81c6d5D8Dba5EDD1e38f16a586cFbFD141b911b
 
--  [VERTU](https://polygonscan.com/address/0xD3f6895928Bb1aA7811d2E08f8237994531396B0) ( Tether ) :
+-  [VERTU](https://polygonscan.com/address/0xD3f6895928Bb1aA7811d2E08f8237994531396B0) ( VertuFinale ) :
 0xD3f6895928Bb1aA7811d2E08f8237994531396B0
 
 VERTU Level
